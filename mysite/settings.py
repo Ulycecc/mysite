@@ -149,7 +149,7 @@ STATIC_ROOT = BASE_DIR / 'static/'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'Ulyccec$default',
+        'NAME': 'Ulyccec$Ulyccec1',
         'USER': 'Ulyccec',
         'PASSWORD': os.getenv('MYSQL_PASSWORD'),
         'HOST': 'Ulyccec.mysql.pythonanywhere-services.com',
