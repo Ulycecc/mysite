@@ -1,0 +1,21 @@
+Структура папок тома DATA
+Серийный номер тома: 5064-CFB3
+D:.
+|   pagination.html
+|   tampates.doc
+|   
+\---blog
+    |   base.html
+    |   
+    \---post
+        |   comment.html
+        |   comment_form.html
+        |   detail.html
+        |   latest_posts.html
+        |   list.html
+        |   pagination.html
+        |   share.html
+        |   
+        \---includes
+                comment_form.html
+                
